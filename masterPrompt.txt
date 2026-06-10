@@ -1,0 +1,29 @@
+I need help with [your task].
+Here is what you need to know:
+- [fact 1 — a constraint, like time or budget]
+- [fact 2 — who it's for]
+- [fact 3 — anything the AI couldn't guess]
+- [mention all fields here which you think are filters considering it a UI]
+//5 lines of context/Filters
+[Attach Document: Is there a document the answer should be consistent with? ]
+[Add Constraints: Budget, Time, Who's on the team, Is there a constraint the AI cannot infer ?]
+Is there prior context (a previous decision, an existing process)? [Yes: summarize in one paragraph. Summarize the previous context in one paragraph]
+d)Is there an output format you want (table, email, bullet list)? [State the Output Format: Table, Email, Bullet List]
+e)Is there an audience (a boss, a child, a stranger)? [State the audience: Audience Key]
+
+
+What I want back: [a list / an email / 3 options / a plan]
+
+
+Web Search Instructions:
+1)Name the sources you trust. "Use the WHO, the FDA, and peer-reviewed studies, not forums."
+2)"Cite the source after each claim."
+3)"If a claim cannot be supported by the cited sources, mark it 'unverified'."
+
+Fresh Info/ Not Stale Info:
+1.If you cannot be sure, say so clearly instead of guessing.
+2.If you are not sure this is current, say so instead of guessing.
+
+Rare Topics:
+1.If you cannot be sure, say so clearly instead of guessing.
+
